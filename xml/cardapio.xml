@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
 <cardapio>
-  <item id="1">
+  <prato id="A1">
     <nome>Galinha caipira torrada</nome>
     <descricao>Galinha caipira seleciona, com temperos naturais, assada sob temperatura motitorada.</descricao>
     <ingredientes>
@@ -9,11 +10,11 @@
       <ingrediente>Coloral</ingrediente>
       <ingrediente>cebola e outros</ingrediente>
     </ingredientes>
-    <preco>R$ 80,00</preco>
+    <preco>&reais; 80,00</preco>
     <calorias>2350 kcal</calorias>
-    <tempo-preparo>45 minutos</tempo-preparo>
-  </item>
-  <item id="2">
+    <tempoPreparo>45 minutos</tempoPreparo>
+  </prato>
+  <prato id="A2">
     <nome>Lasanha à Bolonhesa</nome>
     <descricao>Lasanha tradicional com massa fresca, molho à bolonhesa e queijo gratinado.</descricao>
     <ingredientes>
@@ -22,11 +23,11 @@
       <ingrediente>Queijo mussarela</ingrediente>
       <ingrediente>Queijo parmesão</ingrediente>
     </ingredientes>
-    <preco>R$ 40,00</preco>
+    <preco>&reais; 40,00</preco>
     <calorias>400 kcal</calorias>
-    <tempo-preparo>40 minutos</tempo-preparo>
-  </item>
-  <item id="3">
+    <tempoPreparo>40 minutos</tempoPreparo>
+  </prato>
+  <prato id="A3">
     <nome>Hambúrguer Artesanal</nome>
     <descricao>Hambúrguer artesanal de carne bovina com queijo cheddar, bacon, alface, tomate e cebola roxa no pão brioche.</descricao>
     <ingredientes>
@@ -38,11 +39,11 @@
       <ingrediente>Tomate</ingrediente>
       <ingrediente>Cebola roxa</ingrediente>
     </ingredientes>
-    <preco>R$ 35,00</preco>
+    <preco>&reais; 35,00</preco>
     <calorias>500 kcal</calorias>
-    <tempo-preparo>25 minutos</tempo-preparo>
-  </item>
-  <item id="4">
+    <tempoPreparo>25 minutos</tempoPreparo>
+  </prato>
+  <prato id="A4">
     <nome>Salada Caesar</nome>
     <descricao>Salada verde com alface romana, croutons, queijo parmesão e molho Caesar.</descricao>
     <ingredientes>
@@ -51,11 +52,11 @@
       <ingrediente>Queijo parmesão</ingrediente>
       <ingrediente>Molho Caesar</ingrediente>
     </ingredientes>
-    <preco>R$ 25,00</preco>
+    <preco> &reais; 25,00</preco>
     <calorias>200 kcal</calorias>
-    <tempo-preparo>15 minutos</tempo-preparo>
-  </item>
-  <item id="5">
+    <tempoPreparo>15 minutos</tempoPreparo>
+  </prato>
+  <prato id="A5">
     <nome>Frango Assado com Batatas</nome>
     <descricao>Frango assado com temperos especiais e batatas coradas no forno.</descricao>
     <ingredientes>
@@ -63,8 +64,8 @@
       <ingrediente>Batatas</ingrediente>
       <ingrediente>Temperos</ingrediente>
     </ingredientes>
-    <preco>R$ 45,00</preco>
+    <preco>&reais; 45,00</preco>
     <calorias>300 kcal</calorias>
-    <tempo-preparo>1 hora</tempo-preparo>
-  </item>
+    <tempoPreparo>1 hora</tempoPreparo>
+  </prato>
 </cardapio>
