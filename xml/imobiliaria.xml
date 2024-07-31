@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FAZER O DTD INTERNO -->
+<!DOCTYPE imobiliaria [
+<!ELEMENT imobiliaria (imovel+)>
+<!ELEMENT imovel (descricao,proprietario,endereco,caracteristicas)>
+<!ELEMENT descricao (#PCDATA)>
+<!ELEMENT proprietario (nome,email,telefone)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telefone (#PCDATA)>
+<!ELEMENT endereco (rua,bairro,cidade,numero)>
+<!ELEMENT rua (#PCDATA)>
+<!ELEMENT bairro (#PCDATA)>
+<!ELEMENT cidade (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT caracteristicas (tamanho,numQuartos,numBanheiros)>
+<!ELEMENT tamanho (#PCDATA)>
+<!ELEMENT numQuartos (#PCDATA)>
+<!ELEMENT numBanheiros (#PCDATA)>
+]>
+<imobiliaria>
+    <imovel>
+        <descricao>
+            "imovel pequeno para familias pequenas."
+        </descricao>
+        <proprietario>
+            <nome>"Elyabe"</nome>
+            <email>null</email>
+            <telefone>null</telefone>
+
+        </proprietario>
+        <endereco>
+            <rua>"Jasinto Dores Aquino Rego"</rua>
+            <bairro>Cara do Gato</bairro>
+            <cidade>Juremal</cidade>
+            <numero>"69"</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>"55 metros quadrados."</tamanho>
+            <numQuartos>"3"</numQuartos>
+            <numBanheiros>"2"</numBanheiros>
+        </caracteristicas>
+    
+    </imovel>
+
+</imobiliaria>
