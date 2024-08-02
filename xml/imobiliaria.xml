@@ -40,7 +40,86 @@
             <numQuartos>"3"</numQuartos>
             <numBanheiros>"2"</numBanheiros>
         </caracteristicas>
-    
     </imovel>
+        <imovel>
+            <descricao>Apartamento moderno em condomínio fechado.</descricao>
+            <proprietario>
+                <nome>Maria Silva</nome>
+                <email>maria@email.com</email>
+                <telefone>(11) 98765-4321</telefone>
+            </proprietario>
+            <endereco>
+                <rua>Avenida Brasil</rua>
+                <bairro>Centro</bairro>
+                <cidade>São Paulo</cidade>
+                <numero>123</numero>
+            </endereco>
+            <caracteristicas>
+                <tamanho>70 metros quadrados</tamanho>
+                <numQuartos>2</numQuartos>
+                <numBanheiros>2</numBanheiros>
+            </caracteristicas>
+        </imovel>
+        
+        <imovel>
+            <descricao>Casa térrea com quintal em bairro tranquilo.</descricao>
+            <proprietario>
+                <nome>João Almeida</nome>
+                <email>joao@gmail.com</email>
+                <telefone>(21) 91234-5678</telefone>
+            </proprietario>
+            <endereco>
+                <rua>Rua das Flores</rua>
+                <bairro>Jardim</bairro>
+                <cidade>Rio de Janeiro</cidade>
+                <numero>456</numero>
+            </endereco>
+            <caracteristicas>
+                <tamanho>100 metros quadrados</tamanho>
+                <numQuartos>3</numQuartos>
+                <numBanheiros>2</numBanheiros>
+            </caracteristicas>
+        </imovel>
+        
+        <imovel>
+            <descricao>Loft com pé direito alto e vista panorâmica.</descricao>
+            <proprietario>
+                <nome>Ana Oliveira</nome>
+                <email>ana@outlook.com</email>
+                <telefone>(19) 98765-4321</telefone>
+            </proprietario>
+            <endereco>
+                <rua>Rua da Liberdade</rua>
+                <bairro>Higienópolis</bairro>
+                <cidade>São Paulo</cidade>
+                <numero>789</numero>
+            </endereco>
+            <caracteristicas>
+                <tamanho>80 metros quadrados</tamanho>
+                <numQuartos>1</numQuartos>
+                <numBanheiros>1</numBanheiros>
+            </caracteristicas>
+        </imovel>
+        
+        <imovel>
+            <descricao>Chácara com piscina e área verde.</descricao>
+            <proprietario>
+                <nome>Pedro Santos</nome>
+                <email>pedro@yahoo.com</email>
+                <telefone>(31) 91234-5678</telefone>
+            </proprietario>
+            <endereco>
+                <rua>Estrada da Serra</rua>
+                <bairro>Rural</bairro>
+                <cidade>Belo Horizonte</cidade>
+                <numero>1011</numero>
+            </endereco>
+            <caracteristicas>
+                <tamanho>200 metros quadrados</tamanho>
+                <numQuartos>4</numQuartos>
+                <numBanheiros>3</numBanheiros>
+            </caracteristicas>
+        </imovel>
+        
 
 </imobiliaria>
