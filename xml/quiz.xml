@@ -1,20 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<quiz>
-    <disciplina>
-        <professor>
-            <nome>"Pedro"</nome>
-            <matricula>202401</matricula>
-        </professor>
-    </disciplina>
-    <turma>
-        "INFOWEB2020.1"
-    </turma>
-    <data>"01/01/2020"</data>
-    <questôes>
+<!DOCTYPE quiz SYSTEM "quiz.dtd"> <quiz versao="1.0">
+    <disciplina>Programação</disciplina>
+    <professor>
+        <nome>Cirilo</nome>
+        <matrícula>123456</matrícula>
+    </professor>
+    <turma>2023.1</turma>
+    <data>2024-04-15</data>
+    <questões>
         <questão>
-            <enuciado>"Que dia é hoje?"</enuciado>
-            <pontuação>"20"</pontuação>
-            
+            <enunciado>Qual a linguagem de programação mais utilizada para web?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">JavaScript</alternativa>
+                <alternativa correta="nao">Python</alternativa>
+                <alternativa correta="nao">C++</alternativa>
+            </alternativas>
         </questão>
-    </questôes>
+        
+        <questão>
+        <enunciado>Qual é a capital do Brasil?</enunciado>
+        <pontuação>1</pontuação>
+        <alternativas>
+            <alternativa correta="nao">Rio de Janeiro</alternativa>
+            <alternativa correta="sim">Brasília</alternativa>
+            <alternativa correta="nao">São Paulo</alternativa>
+        </alternativas>
+        </questão>
+
+        <questão>
+        <enunciado>Em qual ano o Brasil foi descoberto?</enunciado>
+        <pontuação>1</pontuação>
+        <alternativas>
+            <alternativa correta="sim">1500</alternativa>
+            <alternativa correta="nao">1492</alternativa>
+            <alternativa correta="nao">1822</alternativa>
+        </alternativas>
+        </questão>
+
+        <questão>
+        <enunciado>Qual é o maior bioma do Brasil?</enunciado>
+        <pontuação>1</pontuação>
+        <alternativas>
+            <alternativa correta="sim">Amazônia</alternativa>
+            <alternativa correta="nao">Cerrado</alternativa>
+            <alternativa correta="nao">Caatinga</alternativa>
+        </alternativas>
+        </questão>
+
+        <questão>
+        <enunciado>Quem pintou a Mona Lisa?</enunciado>
+        <pontuação>1</pontuação>
+        <alternativas>
+            <alternativa correta="sim">Leonardo da Vinci</alternativa>
+            <alternativa correta="nao">Michelangelo</alternativa>
+            <alternativa correta="nao">Pablo Picasso</alternativa>
+        </alternativas>
+        </questão>
+
+        <questão>
+        <enunciado>Qual é a fórmula da água?</enunciado>
+        <pontuação>1</pontuação>
+        <alternativas>
+            <alternativa correta="sim">H2O</alternativa>
+            <alternativa correta="nao">CO2</alternativa>
+            <alternativa correta="nao">NaCl</alternativa>
+        </alternativas>
+        </questão>
+
+    </questões>
 </quiz>
