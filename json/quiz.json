@@ -1,0 +1,123 @@
+{
+    "quiz": {
+      "versao": "1.0",
+      "disciplina": "Programação",
+      "professor": {
+        "nome": "Cirilo",
+        "matrícula": "123456"
+      },
+      "turma": "2023.1",
+      "data": "2024-04-15",
+      "questões": [
+        {
+          "enunciado": "Qual a linguagem de programação mais utilizada para web?",
+          "pontuação": 2,
+          "alternativas": [
+            {
+              "texto": "JavaScript",
+              "correta": true
+            },
+            {
+              "texto": "Python",
+              "correta": false
+            },
+            {
+              "texto": "C++",
+              "correta": false
+            }
+          ]
+        },
+        {
+          "enunciado": "Qual é a capital do Brasil?",
+          "pontuação": 1,
+          "alternativas": [
+            {
+              "texto": "Rio de Janeiro",
+              "correta": false
+            },
+            {
+              "texto": "Brasília",
+              "correta": true
+            },
+            {
+              "texto": "São Paulo",
+              "correta": false
+            }
+          ]
+        },
+        {
+          "enunciado": "Em qual ano o Brasil foi descoberto?",
+          "pontuação": 1,
+          "alternativas": [
+            {
+              "texto": "1500",
+              "correta": true
+            },
+            {
+              "texto": "1492",
+              "correta": false
+            },
+            {
+              "texto": "1822",
+              "correta": false
+            }
+          ]
+        },
+        {
+          "enunciado": "Qual é o maior bioma do Brasil?",
+          "pontuação": 1,
+          "alternativas": [
+            {
+              "texto": "Amazônia",
+              "correta": true
+            },
+            {
+              "texto": "Cerrado",
+              "correta": false
+            },
+            {
+              "texto": "Caatinga",
+              "correta": false
+            }
+          ]
+        },
+        {
+          "enunciado": "Quem pintou a Mona Lisa?",
+          "pontuação": 1,
+          "alternativas": [
+            {
+              "texto": "Leonardo da Vinci",
+              "correta": true
+            },
+            {
+              "texto": "Michelangelo",
+              "correta": false
+            },
+            {
+              "texto": "Pablo Picasso",
+              "correta": false
+            }
+          ]
+        },
+        {
+          "enunciado": "Qual é a fórmula da água?",
+          "pontuação": 1,
+          "alternativas": [
+            {
+              "texto": "H2O",
+              "correta": true
+            },
+            {
+              "texto": "CO2",
+              "correta": false
+            },
+            {
+              "texto": "NaCl",
+              "correta": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

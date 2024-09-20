@@ -40,7 +40,7 @@
             <numQuartos>"3"</numQuartos>
             <numBanheiros>"2"</numBanheiros>
         </caracteristicas>
-    </imovel>
+        </imovel>
         <imovel>
             <descricao>Apartamento moderno em condomínio fechado.</descricao>
             <proprietario>

@@ -1,0 +1,39 @@
+[{"nome": "Galinha caipira torrada",
+ "descricao": "Galinha caipira",
+"ingredientes": ["Galinha caipira", "sal", "coloral", "cebola e outros"],
+"preco": 80 , 
+"calorias": "2350 Kcal",
+"tempoPreparo": "45 minutos" },
+
+{"nome": "Lasanha á Bolonheza",
+"descricao": "Lasanha tradicional com massa fresca, molho á bolonhesa e quijo gratinado",
+"ingredientes": ["Massa fresca para lasanha ", "molho á bolonhesa",
+ "queijo mussarela", "queijo parmesão"],
+"preco": 40 ,
+"calorias": "400 Kcal",
+"tempoPreparo": "40 minutos" },
+
+{"nome": "Hambúrguer Artezanal",
+"descricao": "Hambúrguer artesanal de carne bovina com queijo cheddar, bacon, alface, tomate e cebola roxa no pão brioche.",
+"ingredientes": ["Pão brioche", "Hambúrguer de carne bovina",
+ "Queijo cheddar", "Bacon", "Alface", "Tomate", "Cebola roxa" ],
+"preco": 35 ,
+"calorias": "500 Kcal",
+"tempoPreparo": "25 minutos" },
+
+{"nome": "Salada Caesar",
+"descricao": "Salada verde com alface romana, croutons, queijo parmesão e molho Caesar.",
+"ingredientes": ["Alface romana", "Croutons", "Queijo parmesão",
+"Molho Caesar" ],
+"preco": 25 ,
+"calorias": "200 Kcal",
+"tempoPreparo": "15 minutos" },
+
+{"nome": "Frango Assado com Batatas",
+"descricao": "Frango assado com temperos especiais e batatas coradas no forno.",
+"ingredientes": ["Frango inteiro", "Batatas", "temperos" ],
+"preco": 45 ,
+"calorias": "300 Kcal",
+"tempoPreparo": "60 minutos" }]
+
+

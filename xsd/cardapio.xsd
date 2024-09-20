@@ -6,10 +6,11 @@
     <element name="cardapio">
         <complexType>
             <sequence>
-                <element name= "Frango_assado">
+                <element name= "prato">
                     <simpleType>
                         <restriction base="string">
                             <maxLength value="100"/>
+                            <attribute name="prato" type="integer"/>
                         </restriction>
                     </simpleType>
                 </element>
@@ -20,9 +21,7 @@
                 <element name="ingredientes">
                     <complexType>
                         <sequence>
-                            <element name="Frango_inteiro" type="string" maxOccurs="unbounded"/>
-                            <element name="Batatas_doces" type="string" maxOccurs="unbounded"/>
-                            <element name="tempero_regional_tradicional_RN" type="string" maxOccurs="unbounded"/>
+                            <element name="ingrediente" type="string" maxOccurs="unbounded"/>
                         </sequence>
                     </complexType>
                 </element>
