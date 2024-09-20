@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+  <prato id="A1">
+    <nome>Galinha caipira torrada</nome>
+    <descricao>Galinha caipira seleciona, com temperos naturais, assada sob temperatura motitorada.</descricao>
+    <ingredientes>
+      <ingrediente>Galinha caipira</ingrediente>
+      <ingrediente>Sal</ingrediente>
+      <ingrediente>Coloral</ingrediente>
+      <ingrediente>cebola e outros</ingrediente>
+    </ingredientes>
+    <preco> 80,00</preco>
+    <calorias>2350 kcal</calorias>
+    <tempoPreparo>45 minutos</tempoPreparo>
+  </prato>
+  <prato id="A2">
+    <nome>Lasanha à Bolonhesa</nome>
+    <descricao>Lasanha tradicional com massa fresca, molho à bolonhesa e queijo gratinado.</descricao>
+    <ingredientes>
+      <ingrediente>Massa fresca para lasanha</ingrediente>
+      <ingrediente>Molho à bolonhesa</ingrediente>
+      <ingrediente>Queijo mussarela</ingrediente>
+      <ingrediente>Queijo parmesão</ingrediente>
+    </ingredientes>
+    <preco> 40,00</preco>
+    <calorias>400 kcal</calorias>
+    <tempoPreparo>40 minutos</tempoPreparo>
+  </prato>
+  <prato id="A3">
+    <nome>Hambúrguer Artesanal</nome>
+    <descricao>Hambúrguer artesanal de carne bovina com queijo cheddar, bacon, alface, tomate e cebola roxa no pão brioche.</descricao>
+    <ingredientes>
+      <ingrediente>Pão brioche</ingrediente>
+      <ingrediente>Hambúrguer de carne bovina</ingrediente>
+      <ingrediente>Queijo cheddar</ingrediente>
+      <ingrediente>Bacon</ingrediente>
+      <ingrediente>Alface</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Cebola roxa</ingrediente>
+    </ingredientes>
+    <preco> 35,00</preco>
+    <calorias>500 kcal</calorias>
+    <tempoPreparo>25 minutos</tempoPreparo>
+  </prato>
+  <prato id="A4">
+    <nome>Salada Caesar</nome>
+    <descricao>Salada verde com alface romana, croutons, queijo parmesão e molho Caesar.</descricao>
+    <ingredientes>
+      <ingrediente>Alface romana</ingrediente>
+      <ingrediente>Croutons</ingrediente>
+      <ingrediente>Queijo parmesão</ingrediente>
+      <ingrediente>Molho Caesar</ingrediente>
+    </ingredientes>
+    <preco>  25,00</preco>
+    <calorias>200 kcal</calorias>
+    <tempoPreparo>15 minutos</tempoPreparo>
+  </prato>
+  <prato id="A5">
+    <nome>Frango Assado com Batatas</nome>
+    <descricao>Frango assado com temperos especiais e batatas coradas no forno.</descricao>
+    <ingredientes>
+      <ingrediente>Frango inteiro</ingrediente>
+      <ingrediente>Batatas</ingrediente>
+      <ingrediente>Temperos</ingrediente>
+    </ingredientes>
+    <preco> 45,00</preco>
+    <calorias>300 kcal</calorias>
+    <tempoPreparo>1 hora</tempoPreparo>
+  </prato>
+</cardapio>
